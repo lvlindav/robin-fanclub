@@ -1,0 +1,28 @@
+.films > img{
+    width: auto;
+    height: 400px;
+    
+}
+body{
+    padding:20px;
+    font-size: 1em;
+}
+@media only screen
+and (min-device-width: 360px)
+and (max-device-width: 640px)
+and (-webkit-min-device-pixel-ratio: 3) {
+
+}
+@media only screen
+and (min-device-width: 768px)
+and (max-device-width: 1024px)
+and (-webkit-min-device-pixel-ratio: 2) {
+
+}
+@media screen
+and (min-device-width: 1200px)
+and (max-device-width: 1600px)
+and (-webkit-min-device-pixel-ratio: 2)
+and (min-resolution: 192dpi) {
+}
+
